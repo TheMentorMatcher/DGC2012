@@ -1,1 +1,0 @@
-See help information in the HELP folder included with the download. Do not upload the entire download, only the theme files to your server.
