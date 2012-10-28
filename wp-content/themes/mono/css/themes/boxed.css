@@ -1,0 +1,14 @@
+/* Skin Override CSS - Boxed */
+
+#outer {
+	width: 1098px;
+	margin: 0px auto 0px auto;
+	padding: 0;
+	overflow: hidden;
+	background-image:url(../../images/backgrounds/top-bg.png);
+	background-repeat:no-repeat;
+	/*background: #fff;*/
+	/*box-shadow: 0 0 2px #eee;
+	-moz-box-shadow: 0 0 2px #eee;
+	-webkit-box-shadow: 0 0 2px #eee;*/
+}

@@ -1,0 +1,62 @@
+/* Skin Override CSS - Dark */
+
+body {
+	background: #333;
+	color: #aaa;
+}
+
+
+a,
+.promo_text,
+#commentlist .commentmetadata {
+	color: #fff;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+#commentlist cite a,
+a:hover,
+.sf-menu a:hover,
+.sf-menu li.current-menu-item a:hover,
+.sf-menu li.sfHover ul a:hover,
+.sf-menu li.sfHover a {
+	color: #ccc;
+}
+
+.sf-menu a:hover,
+.sf-menu li.sfHover A {
+	border-bottom-color: #fff;
+}
+
+ul.thumbnail-list,
+.post,
+#footer .footer-top-wrap,
+#footer .footer-bottom-wrap,
+.cudazi-latest-posts li,
+.cudazi-latest-posts,
+#respond,
+#comments-title,
+hr {
+	background-image: url(../../images/hr_dark.gif);
+	background-repeat: repeat-x;
+}
+#commentlist .right-comments {
+	background:url(../../images/hr_vertical_dark.gif) repeat-y left center;
+}
+
+#author,
+#url,
+#email,
+#comment,
+#submit,
+form.standard .textbox,
+form.standard .textarea,
+form.standard .button,
+#searchform,
+.attachment-list img,
+.post-thumbnail img,
+.featured-image img {
+	box-shadow: 0 0 3px #444;
+	-moz-box-shadow: 0 0 3px #444;
+	-webkit-box-shadow: 0 0 3px #444;
+}
+
